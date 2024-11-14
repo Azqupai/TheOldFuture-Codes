@@ -20,7 +20,7 @@ class Program {
             Console.Clear();
             Console.WriteLine("Welcome to TheOldProject.");
             Thread.Sleep(1000);
-            Console.WriteLine("This is =Azqual7's first code written in 2006!");
+            Console.WriteLine("This is Azqupai's first code written in 2006!");
             Thread.Sleep(1000);
             Console.WriteLine("Yeah, I'm a developer, a very special one.");
             Thread.Sleep(1000);
